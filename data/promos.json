@@ -1,0 +1,56 @@
+{
+  "updated": "2026-09-22",
+  "message": "Promos du jour",
+  "promos": [
+    {
+      "id": "20260922-1",
+      "titre": "Apple AirPods 4 avec Réduction de Bruit",
+      "prix": "139,00 €",
+      "prix_barre": "199,00 €",
+      "economie": "30 %",
+      "categorie": "tech",
+      "lien": "https://www.amazon.fr/dp/B0DGHYDYJL?tag=techiaactu21-21",
+      "note": "Bon plan du jour"
+    },
+    {
+      "id": "20260922-2",
+      "titre": "Nothing Phone (3) 256 Go",
+      "prix": "479,00 €",
+      "prix_barre": "849,00 €",
+      "economie": "44 %",
+      "categorie": "tech",
+      "lien": "https://www.amazon.fr/dp/B0F6Y85VGK?tag=techiaactu21-21",
+      "note": "Réduction du jour"
+    },
+    {
+      "id": "20260922-3",
+      "titre": "Manette Xbox Ice Breaker",
+      "prix": "47,07 €",
+      "prix_barre": "79,99 €",
+      "economie": "41 %",
+      "categorie": "tech",
+      "lien": "https://www.amazon.fr/dp/B0FKGVK6KK?tag=techiaactu21-21",
+      "note": "Prime — prix limité"
+    },
+    {
+      "id": "20260922-4",
+      "titre": "Disque dur externe UnionSine 500 Go",
+      "prix": "35,88 €",
+      "prix_barre": "",
+      "economie": "",
+      "categorie": "tech",
+      "lien": "https://www.amazon.fr/dp/B091FS79T8?tag=techiaactu21-21",
+      "note": "Bon rapport qualité/prix"
+    },
+    {
+      "id": "20260922-5",
+      "titre": "Clé USB double Lexar D40E 64 Go",
+      "prix": "18,99 €",
+      "prix_barre": "",
+      "economie": "",
+      "categorie": "tech",
+      "lien": "https://www.amazon.fr/dp/B0DH1CQ5RL?tag=techiaactu21-21",
+      "note": "Petit prix du jour"
+    }
+  ]
+}
